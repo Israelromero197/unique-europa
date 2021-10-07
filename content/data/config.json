@@ -53,6 +53,14 @@
                 "url": "https://dev.to/",
                 "new_window": true
             }
+        ],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
+            }
         ]
     },
     "domain": "https://unique-europa-f6103.netlify.app"
