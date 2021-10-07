@@ -61,6 +61,11 @@ sections:
       ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme
